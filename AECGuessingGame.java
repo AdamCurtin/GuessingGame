@@ -70,13 +70,4 @@ public static void playAgain() { // prompt for play again, or end game.
     System.out.println("You played " + gameTotal + " game(s)");
     System.out.println("Thanks, play again soon!"); 
    } // end playAgain
-     
-     
-//     while (response.substring(0) == "Y" || "y"); {
-//     playGame();
-//     if (response.substring(0) == "N" || "n"); {
-//     System.out.println("Thank you for playing. See ya!");
-// } // end if
-// } // end while
-
 } // end of AECGuessingGame
