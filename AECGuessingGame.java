@@ -31,7 +31,8 @@ public class AECGuessingGame {
       int guessTotal = 0; // Number of tries
       int gameTotal = 0; // Number of games
       
-      System.out.println("Random number is " + randomNumber);
+      // Print random number for debugging purposes
+      //System.out.println("Random number is " + randomNumber);
       System.out.println("Your guess is: ");
       int guess = input.nextInt();
    
